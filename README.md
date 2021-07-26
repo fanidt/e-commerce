@@ -7,7 +7,7 @@
  -[Description](#Description) <br />
  -[UserStory] (#UserStory) <br />
  -[Badges](#Badges) <br />
- -[Screenshot](##Screenshot) <br />
+ -[Screenshot](#Screenshot) <br />
  -[Installation](#Installation) <br />
  -[Usage](#Usage) <br />
  -[Support](#Support) <br />
@@ -28,7 +28,7 @@
   
   ## Screenshot: <br />
   
-    ![alt text](https://github.com/fanidt/e-commerce/blob/main/assets/ecommerce.png)
+  ![ScreenShot](https://raw.githubusercontent.com/fanidt/e-commerce/main/assets/photo.png)(https://youtu.be/hbzw2S3HygA)
   
   ## Installation: <br />
   Download file to your computer
