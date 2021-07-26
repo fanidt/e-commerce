@@ -28,7 +28,7 @@
   
   ## Screenshot: <br />
   
-    ![alt text](./assets/ecommerce.png)(https://youtu.be/hbzw2S3HygA)
+    ![alt text](./assets/ecommerce.png)
   
   ## Installation: <br />
   Download file to your computer
