@@ -28,7 +28,7 @@
   
   ## Screenshot: <br />
   
-    ![alt text](./assets/ecommerce.png)
+    ![alt text](https://github.com/fanidt/e-commerce/blob/main/assets/ecommerce.png)
   
   ## Installation: <br />
   Download file to your computer
